@@ -1,0 +1,2 @@
+# mygitpractice
+Github First Practice 
